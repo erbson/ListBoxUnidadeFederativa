@@ -1,0 +1,10 @@
+C:\Users\erbson.lavras\Documents\Developer\Windows Forms\ListBox\ListBoxEstadosBrasileiros\ListBoxEstadosBrasileiros\obj\Debug\ListBoxEstadosBrasileiros.csprojAssemblyReference.cache
+C:\Users\erbson.lavras\Documents\Developer\Windows Forms\ListBox\ListBoxEstadosBrasileiros\ListBoxEstadosBrasileiros\obj\Debug\ListBoxEstadosBrasileiros.Form1.resources
+C:\Users\erbson.lavras\Documents\Developer\Windows Forms\ListBox\ListBoxEstadosBrasileiros\ListBoxEstadosBrasileiros\obj\Debug\ListBoxEstadosBrasileiros.Properties.Resources.resources
+C:\Users\erbson.lavras\Documents\Developer\Windows Forms\ListBox\ListBoxEstadosBrasileiros\ListBoxEstadosBrasileiros\obj\Debug\ListBoxEstadosBrasileiros.csproj.GenerateResource.cache
+C:\Users\erbson.lavras\Documents\Developer\Windows Forms\ListBox\ListBoxEstadosBrasileiros\ListBoxEstadosBrasileiros\obj\Debug\ListBoxEstadosBrasileiros.csproj.CoreCompileInputs.cache
+C:\Users\erbson.lavras\Documents\Developer\Windows Forms\ListBox\ListBoxEstadosBrasileiros\ListBoxEstadosBrasileiros\bin\Debug\ListBoxEstadosBrasileiros.exe.config
+C:\Users\erbson.lavras\Documents\Developer\Windows Forms\ListBox\ListBoxEstadosBrasileiros\ListBoxEstadosBrasileiros\bin\Debug\ListBoxEstadosBrasileiros.exe
+C:\Users\erbson.lavras\Documents\Developer\Windows Forms\ListBox\ListBoxEstadosBrasileiros\ListBoxEstadosBrasileiros\bin\Debug\ListBoxEstadosBrasileiros.pdb
+C:\Users\erbson.lavras\Documents\Developer\Windows Forms\ListBox\ListBoxEstadosBrasileiros\ListBoxEstadosBrasileiros\obj\Debug\ListBoxEstadosBrasileiros.exe
+C:\Users\erbson.lavras\Documents\Developer\Windows Forms\ListBox\ListBoxEstadosBrasileiros\ListBoxEstadosBrasileiros\obj\Debug\ListBoxEstadosBrasileiros.pdb
